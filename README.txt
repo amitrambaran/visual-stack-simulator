@@ -1,7 +1,3 @@
-CPS209 Assignment 2 - Amit Rambaran | 500622391
-
-**Program is fully functional.**
-
 Summary of Program
 
 When the program is executed, a panel will be presented. The first click will paint the TrainEngine component.
