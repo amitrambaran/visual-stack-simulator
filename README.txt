@@ -1,3 +1,5 @@
+#Visual Stack Simulator
+
 Summary of Program
 
 When the program is executed, a panel will be presented. The first click will paint the TrainEngine component.
